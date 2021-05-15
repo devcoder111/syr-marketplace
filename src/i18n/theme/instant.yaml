@@ -1,0 +1,32 @@
+instant:
+  config:
+    customAttributes:
+      # Goods marketplace
+      reference_label:
+        en: Reference
+        fr: Référence
+      brand_label:
+        en: Brand
+        fr: Marque
+      dimension_label:
+        en: Dimension
+        fr: Dimensions
+      transport_label:
+        en: Freight included
+        fr: Transport fourni
+      # Housing marketplace
+      vegan_label:
+        en: Vegan
+        fr: Habitat passif
+      glutenFree_label:
+        en: Gluten Free
+        fr: Paysage unique
+      pickup_label:
+        en: Pick-up
+        fr: Pick-up
+      delivery_label:
+        en: Delivery
+        fr: Delivery
+      cuisine_label:
+        en: Cuisine
+        fr: Cuisine
